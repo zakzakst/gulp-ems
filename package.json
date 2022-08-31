@@ -1,0 +1,27 @@
+{
+  "name": "gulp-ems",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./index.js",
+  "scripts": {
+    "imageMin": "gulp imageMin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakzakst/gulp-ems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakzakst/gulp-ems/issues"
+  },
+  "homepage": "https://github.com/zakzakst/gulp-ems#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-changed": "^4.0.3",
+    "gulp-imagemin": "^8.0.0",
+    "imagemin-pngquant": "^9.0.2"
+  }
+}
